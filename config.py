@@ -1,7 +1,7 @@
 AWS_REGION = "us-east-1"  # Example region, change if needed
 
 MAX_TURNS_PER_CANDIDATE = 7
-DEBATE_TOPIC = "Czy były minister Zbigniew Ziobro powinien stawić się przed sejmową komisją śledczą ds. Pegasusa?"
+DEBATE_TOPIC = ""
 
 CANDIDATE_ALPHA_NAME = "Candidate PiS"
 CANDIDATE_ALPHA_PERSONA_FILE = "candidates/candidate_pis_persona.txt"
